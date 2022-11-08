@@ -46,9 +46,9 @@ a {
 }
 
 button {
-	border-radius: 20px;
-	background-color: #2e4932;
-	color: #FFFFFF;
+	/* border-radius: 5px; */
+	/* background-color: #2e4932; */
+	color: #060505;
 	font-size: 12px;
 	font-weight: bold;
 	padding: 12px 45px;
@@ -65,10 +65,7 @@ button:focus {
 	outline: none;
 }
 
-button.ghost {
-	background-color: #2e4932;
-	border-color: #2e4932;
-}
+
 
 form {
 	background-color: #FFFFFF;
@@ -230,3 +227,7 @@ img{
 	height: 40px;
 	width: 40px;
 }
+
+
+
+
